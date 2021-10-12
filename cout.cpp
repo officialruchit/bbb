@@ -6,5 +6,5 @@ int main()
 
     cout<<""hi i m ruchit";
 
-    
-}
+
+}qw
